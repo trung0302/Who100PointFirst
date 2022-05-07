@@ -1,0 +1,46 @@
+
+@media (max-width: 739px) {
+    body {
+        height: 100vh;
+    }
+
+    main {
+        width: 36rem;
+        height: 60rem;
+    }
+
+    .player {
+        padding: 8px;
+    }
+
+    .name {
+        font-size: 3rem;
+        margin-top: 24px;
+    }
+    
+    .dice {
+        width: 7rem;
+        top: 12rem;
+    }
+
+    .current {
+        width: 80%;
+        margin-top: 22rem;
+    }
+
+    .btn {
+        font-size: 1.6rem;
+    }
+
+    .btn--new {
+        top: 22rem;
+    }
+
+    .btn--roll {
+        bottom: 28rem;
+    }
+
+    .btn--hold {
+        bottom: 22rem;
+    }
+}
